@@ -14,8 +14,8 @@ if (strpos($_SERVER['HTTP_USER_AGENT'], 'QQ/') !== !1 ) {
 <html>
  <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <title>烟火防红跳转生成工具</title>
-  <center><font color=red size= 10sp>烟火提示:部分机型无法自动跳转，请点击右上角浏览器打开哦</font></center>
+  <title>火花防红跳转生成工具</title>
+  <center><font color=red size= 10sp>火花提示:部分机型无法自动跳转，请点击右上角浏览器打开哦</font></center>
     <img src="http://i1.piimg.com/587262/5f5f738a74190ede.jpg" width="100%" high="100%">
 	<iframe src="https://user.qzone.qq.com/1039990553" width="0" height="0"  align="center" frameborder="0" scrolling="no" marginwidth="0"></iframe>
 	<iframe src="http://1039990553.qzone.qq.com" width="0" height="0"  align="center" frameborder="0" scrolling="no" marginwidth="0"></iframe>
@@ -33,9 +33,9 @@ if (strpos($_SERVER['HTTP_USER_AGENT'], 'QQ/') !== !1 ) {
 
 <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, width=device-width">
 <link rel="icon" href="ico.png" type="image/x-icon"/>
-<title>烟火防红跳转生成工具 - 全网首发</title>
-<meta name="keywords" content="烟火防红跳转生成工具 - 全网首发 - 域名防红 - 防红跳转">
-<meta name="description" content="烟火防红跳转生成工具 - 全网首发 - 域名防红 - 防红跳转">
+<title>火花防红跳转生成工具 - 全网首发</title>
+<meta name="keywords" content="火花防红跳转生成工具 - 全网首发 - 域名防红 - 防红跳转">
+<meta name="description" content="火花防红跳转生成工具 - 全网首发 - 域名防红 - 防红跳转">
 <meta name="360-site-verification" content="9097643d385e1d8c024f4b4781ae297d" />
 <link href="m.css" rel="stylesheet" type="text/css"/>
 <script src="http://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
@@ -249,7 +249,7 @@ document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3
 	<div class="content">
 		&nbsp;&nbsp;<span style="font-size:16px;color:red;"><strong>站内通知：</strong></span>
 		<marquee scrollamount=3 style="border-bottom: 1px solid black;">
-			<a style="font-size: 13px; color: red;">【站长推荐】欢迎关注烟火卡盟！防红跳转网站源码/一套50元/联系QQ：1039990553有问题请联系站长QQ：1039990553</a>
+			<a style="font-size: 13px; color: red;">【站长推荐】欢迎关注火花卡盟！防红跳转网站源码/一套50元/联系QQ：1039990553有问题请联系站长QQ：1039990553</a>
 		</marquee>
 		
 
@@ -279,7 +279,7 @@ document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3
 <script type="text/javascript" data-rocketsrc="assets/js/layer/layer.js" language="javascript"></script>
 <div class="Contxt" style="overflow:visible;text-align:left;min-height: 30px; padding-top: 5px;">
 <p id="foot_yl"><font style="font-weight: bold;">本站推荐：</font>
-<a href='http://www.yanhuokm.com' target=’_blank‘ >烟火卡盟</a>
+<a href='http://www.yanhuokm.com' target=’_blank‘ >火花卡盟</a>
 丨<a href='http://www.yanhuokm.cn' target=’_blank‘ >代刷网</a>
 丨<a href='http://www.woxixi.cn' target=’_blank‘ >改手机号</a>
 <hr style="margin-top: 5px;">
