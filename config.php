@@ -5,7 +5,7 @@ $title="王者荣耀全新出击";//网站标题
 
 
 
-$domain="http://fh.com";//网站域名
+$domain=$_SERVER['HTTP_HOST'];//网站域名
 
 
 
